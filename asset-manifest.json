@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/education_website/static/css/main.ebc93ba7.css",
+    "main.js": "/education_website/static/js/main.bc576c5f.js",
+    "static/media/back.webp": "/education_website/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/awrapper.webp": "/education_website/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/education_website/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/education_website/index.html",
+    "main.ebc93ba7.css.map": "/education_website/static/css/main.ebc93ba7.css.map",
+    "main.bc576c5f.js.map": "/education_website/static/js/main.bc576c5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebc93ba7.css",
+    "static/js/main.bc576c5f.js"
+  ]
+}
